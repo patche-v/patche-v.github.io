@@ -2,18 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://patche-v.github.io/posts/firstpost/</loc>
-    <lastmod>2022-01-24T21:26:21+01:00</lastmod>
-  </url><url>
-    <loc>https://patche-v.github.io/posts/</loc>
-    <lastmod>2022-01-24T21:26:21+01:00</lastmod>
-  </url><url>
-    <loc>https://patche-v.github.io/</loc>
-    <lastmod>2022-01-24T21:26:21+01:00</lastmod>
-  </url><url>
     <loc>https://patche-v.github.io/about-hugo/</loc>
     <lastmod>2022-01-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://patche-v.github.io/tags/</loc>
+  </url><url>
+    <loc>https://patche-v.github.io/</loc>
   </url>
 </urlset>
